@@ -25,9 +25,7 @@
   <p align="center">
     HTML Library for Intro and Transition
     <br />
-    <a href="hh">View Demo</a>
-    ·
-    <a href="hh">Report Bug</a>
+    <a href="https://zoksss.github.io/z-intro-lib/">View Demo</a>
   </p>
 </div>
 

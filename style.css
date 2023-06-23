@@ -8,7 +8,7 @@ body{
 
 .z-intro{
     position: absolute;
-    background-color: rgb(159, 159, 159);
+    background-color: rgb(77, 50, 50);
     width: 100%;
     height: 100vh;
     z-index: 999999999999;
@@ -78,7 +78,7 @@ body{
 
 .controls button {
     font-size: 25px;
-    margin: 0 10px;
+    margin: 5px 10px;
     padding: 10px 20px;
     border: none;
     outline: none;
